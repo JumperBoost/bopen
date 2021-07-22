@@ -36,5 +36,8 @@ To install it you must:
 4. Run `npm install` on the console to install NodeJS packages
 5. To start the bot run `npm start` on the console
 
+## Authors
+- Shawn Franceus as [@shazogg](https://github.com/shazogg)
+
 ## License
 This project is under MIT license, you can find it here: [LICENCE](LICENSE)
