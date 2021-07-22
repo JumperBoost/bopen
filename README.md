@@ -35,3 +35,6 @@ To install it you must:
 3. Run a console on the selected folder
 4. Run `npm install` on the console to install NodeJS packages
 5. To start the bot run `npm start` on the console
+
+## License
+This project is under MIT license, you can find it here: [LICENCE](LICENSE)
