@@ -30,7 +30,8 @@ Bopen uses NodeJS to run, if you want to use it you must install [NodeJS](https:
 
 ### Installation
 To install it you must:
-1. Download the source files to your machine in the appropriate folder
-2. Run a console on the selected folder
-3. Run `npm install` on the console to install NodeJS packages
-4. To start the bot run `npm start` on the console
+1. Download the source files to your machine
+2. Move the contents of the src folder to the destination of your choice
+3. Run a console on the selected folder
+4. Run `npm install` on the console to install NodeJS packages
+5. To start the bot run `npm start` on the console
