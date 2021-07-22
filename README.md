@@ -3,11 +3,12 @@
 ## Modular - Moderation - Tickets - Economy - Music - Levels - Record - Storage
 [![node](https://img.shields.io/badge/-node-brightgreen?style=for-the-badge)](https://nodejs.org/)
 
-Bopen is an open source modular Dicord bot, it is created by the community and its main goal is to satisfy the community.
-Its main functions are:
+Bopen is an open source modular Discord bot, created by community.
+
+Features:
 - Moderation:
   - Kick
-  - Ban (permanent or with timeout)
+  - Ban (permanent or defined)
   - Log
   - Filter
   - Clear channel
@@ -21,20 +22,19 @@ Its main functions are:
 - Storage (database on a channel)
 
 # Modules
-Bopen is modular, that is to say that it is customizable via modules, basic modules are unequal but, third party modules can be added.
+Bopen is modular, customizable via modules. Basic modules are included, but 3rd party modules can be added.
 
 # Getting started
-If you need help with these steps, the [Discord server](https://discord.gg/63qTWtC5Y7) welcomes you with open arms.
+Need help? Have a question? Ask on our [Discord server](https://discord.gg/63qTWtC5Y7), you will be welcome!
 ### Prerequisites
-Bopen uses NodeJS to run, if you want to use it you must install [NodeJS](https://nodejs.org/en/download/)
+- [NodeJS LTS](https://nodejs.org/en/download/)
 
 ### Installation
-To install it you must:
-1. Download the source files to your machine
-2. Move the contents of the src folder to the destination of your choice
-3. Run a console on the selected folder
-4. Run `npm install` on the console to install NodeJS packages
-5. To start the bot run `npm start` on the console
+Install & start your bot in 4 steps:
+1. Clone Bopen on your machine
+2. Run a console in the generated folder
+3. From console, run `npm install` to install NodeJS modules
+4. Finally, start the bot with `npm start`
 
 ## Authors
 - Shawn Franceus as [@shazogg](https://github.com/shazogg)
